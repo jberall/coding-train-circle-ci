@@ -1,0 +1,17 @@
+{
+  "name": "coding-train-circle-ci",
+  "version": "1.0.0",
+  "description": "testing with circle ci ",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "jberall",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
