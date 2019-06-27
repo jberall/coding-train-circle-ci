@@ -11,6 +11,7 @@ jobs:
 
     steps:
       - checkout
-      - run: yarn install
+      - run: echo "A first hello"
+      # - run: yarn install
       # run tests!
-      - run: yarn test
+      # - run: yarn test
